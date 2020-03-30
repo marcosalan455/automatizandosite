@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fee2c102-e4a1-47a5-9bc8-c5f73062b91e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Zi2H6cGOo6Y4T252iZ33evej1K" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ExecutaTestCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.seubarriga.wcaquino" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="execucaotestcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="execucaotestcases" />
+      <option name="MAIN_CLASS_NAME" value="execucaotestcases.ExecutaTestCase" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ExecutaTestCase" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fee2c102-e4a1-47a5-9bc8-c5f73062b91e" name="Default Changelist" comment="" />
+      <created>1585307502317</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585307502317</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="152" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1585570495127">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="152" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.984@0.0.1280.984" timestamp="1585570495127" />
+    <state width="1236" height="262" key="GridCell.Tab.0.bottom" timestamp="1585580665976">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1236" height="262" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1585580665976" />
+    <state width="1397" height="222" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1585337568951" />
+    <state width="1236" height="262" key="GridCell.Tab.0.center" timestamp="1585580665976">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1236" height="262" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1585580665976" />
+    <state width="1397" height="222" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1585337568950" />
+    <state width="1236" height="262" key="GridCell.Tab.0.left" timestamp="1585580665976">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1236" height="262" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1585580665976" />
+    <state width="1397" height="222" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1585337568949" />
+    <state width="1236" height="262" key="GridCell.Tab.0.right" timestamp="1585580665976">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1236" height="262" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1585580665976" />
+    <state width="1397" height="222" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1585337568950" />
+    <state x="336" y="315" key="com.intellij.ide.util.TipDialog" timestamp="1585569831119">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="336" y="315" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1585569831119" />
+    <state x="321" y="178" width="623" height="607" key="recent.locations.popup" timestamp="1585569845608">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="321" y="178" width="623" height="607" key="recent.locations.popup/0.0.1280.984@0.0.1280.984" timestamp="1585569845608" />
+    <state x="361" y="156" width="700" height="530" key="recent.locations.popup/0.0.1440.860@0.0.1440.860" timestamp="1585333869000" />
+    <state x="334" y="223" key="run.anything.popup" timestamp="1585577116112">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="334" y="223" key="run.anything.popup/0.0.1280.984@0.0.1280.984" timestamp="1585577116112" />
+    <state x="376" y="195" key="run.anything.popup/0.0.1440.860@0.0.1440.860" timestamp="1585333998782" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/AquiParametrosTasks/ExclusaoDeMovimentacaoTask.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/com_seubarriga_wcaquino$ExecutaTestCase.ic" NAME="ExecutaTestCase Coverage Results" MODIFIED="1585568811348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>execucaotestcases.*</FILTER>
+    </SUITE>
+  </component>
+</project>

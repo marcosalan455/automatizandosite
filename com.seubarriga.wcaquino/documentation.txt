@@ -1,0 +1,36 @@
+Dado acessar o site pelo endereço: "https://seubarriga.wcaquino.me/"
+E entre na página de login.
+E nos campos, preencher com email e senha válidos.
+E clique no  botão de entrar.
+E No menu contas, adicionar usuario.
+E no campo de texto preencher com o nome.
+E verificando sucesso na adicao, criar movimentacao;
+E preenchendo todos os campos obrigatórios.
+E ao verificar mensagem de sucesso na criação de movimentação.
+Quando tudo verificado.
+Então excluir a conta.
+
+
+Data access the site through the address https://seubarriga.wcaquino.me/
+And enter the login page.
+And in the fields, fill in with valid email and password.
+And click the enter button.
+E In the accounts menu, add user.
+And in the text field fill in the name.
+And verifying success in the addition, create movimentation.
+And filling in all mandatory fields.
+And when verifying message of success in the creation of movement.
+When everything checked.
+Then delete the account.
+
+Se le da acceso al sitio por la dirección: "https://seubarriga.wcaquino.me/"
+E ingrese a la página de inicio de sesión.
+Y en los campos, complete con correo electrónico y contraseña válidos.
+Y haga clic en el botón Enter.
+Y En el menú de cuentas, agregue usuario.
+Y en el campo de texto complete el nombre.
+Y verificando el éxito en la adición, crea movimiento;
+Y rellenando todos los campos obligatorios.
+Y al verificar mensaje de éxito en la creación de movimiento.
+Cuando todo marcó.
+Luego elimine la cuenta.
